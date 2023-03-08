@@ -1,0 +1,12 @@
+{
+  "name": "@herp-inc/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared Prettier configuration for the projects in HERP, Inc.",
+  "main": "index.json",
+  "repository": "https://github.com/herp-inc/prettier-config.git",
+  "author": "HERP, Inc.",
+  "license": "MIT",
+  "exports": {
+    ".": "./index.json"
+  }
+}
